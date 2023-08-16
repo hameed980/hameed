@@ -1,0 +1,22 @@
+ body{
+    /* background-color: black; */
+ }
+ 
+ 
+ table{
+    border: 8px solid aqua;
+    width: 50px;
+    margin: auto;
+ }
+tr,td{
+    border: 8px solid lavender;
+} 
+th{
+    background-color: black;
+    color: white;
+}
+.row{
+    
+    background-color: orangered;
+}
+
